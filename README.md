@@ -6,6 +6,10 @@ black holes, and watch thousands of particles respond to real gravity, live.
 **Current milestone: 1 — Gravity Playground (fully working).**
 Fully offline. No accounts, no API keys, no paid services.
 
+## Download
+
+**[Download ChaosLab.apk](apk/ChaosLab.apk)**, or get the newest build from [Releases](../../releases).
+
 ## What works now
 
 | Feature | Details |
